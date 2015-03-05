@@ -1,0 +1,8 @@
+Edited by Liber Dovat
+
+Using this template:
+http://startbootstrap.com/template-overviews/thumbnail-gallery
+https://github.com/IronSummitMedia/startbootstrap-thumbnail-gallery
+
+Background form:
+http://subtlepatterns.com

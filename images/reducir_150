@@ -1,0 +1,6 @@
+#!/bin/bash
+for file in *.png *.PNG
+do
+   echo "reduciendo ${file}"
+   convert -geometry 150x150 ${file} small_${file}
+done
